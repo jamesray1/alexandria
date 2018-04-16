@@ -4,6 +4,11 @@ A collection of research, papers, and blogs on everything blockchain-related.
 
 ## Contents
 
+### Preamble
+
+This is for _educational_ purposes only.
+Papers and/or resources that include a token and/or are primarily marketing material won't be merged.
+
 ### Papers
 
 The initial version of alexandria will focus on the three main parts of a blockchain: `State, Validity and Canonicality`.
