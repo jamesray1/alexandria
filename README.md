@@ -27,4 +27,6 @@ The burning of the Library of Alexandria, including the incalculable loss of anc
 
 ## Contribute
 
-This can only be a collaberative effort. We ❤ issues and pull request on [GitHub](https://github.com/Trinkler/Alexandria).
+There are many papers and resources missing. Help us improve.
+
+We ❤ [issues](https://github.com/Trinkler/alexandria/issues/new) and [pull request](https://github.com/Trinkler/alexandria/fork)!
