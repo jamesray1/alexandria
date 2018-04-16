@@ -30,6 +30,8 @@ The [Library of Alexandria](https://en.wikipedia.org/wiki/Library_of_Alexandria)
 
 The burning of the Library of Alexandria, including the incalculable loss of ancient works, has become a symbol of the irretrievable loss of public knowledge.
 
+This repository is an attempt to rebuild a digital version of this library for everything blockchain related.
+
 ## Contribute
 
 There are many papers and resources missing. Help us improve.
