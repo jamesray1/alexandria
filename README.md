@@ -1,6 +1,6 @@
 # alexandria
 
-A collection of resources, papers, and tutorials on everything blockchain-related.
+A collection of research, papers, and blogs on everything blockchain-related.
 
 ## Contents
 
