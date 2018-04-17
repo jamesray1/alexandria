@@ -1,3 +1,6 @@
+<img src = "https://github.com/Trinkler/brand/blob/master/assets/alexandria/01_Great_Alexandria.jpg" width = "25%" align="right">
+
+
 # alexandria
 
 A collection of research, papers, and blogs on everything blockchain-related.
@@ -18,6 +21,9 @@ The initial version of alexandria will focus on the three main parts of a blockc
 - [Bok Consulting](https://www.bokconsulting.com.au/)
 - [Giotto De Filippi](https://medium.com/@giottodf)
 - [Crypto economics](http://cryptoeconomics.study/)
+- [Hacking Distributed](http://hackingdistributed.com/)
+- [Martin Holst Swende](http://swende.se/)
+- [Peter Venessenes](http://vessenes.com/)
 
 ### Research
 
