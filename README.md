@@ -1,3 +1,5 @@
+<img src = "https://github.com/Trinkler/brand/blob/master/assets/no%20space/02_Great_Alexandria.jpg">
+
 # alexandria
 
 A collection of research, papers, and blogs on everything blockchain-related.
