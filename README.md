@@ -1,5 +1,4 @@
-<img src = "https://github.com/Trinkler/brand/blob/master/assets/alexandria/01_Great_Alexandria.jpg" width = "25%" align="right">
-
+<img src = "https://github.com/Trinkler/brand/blob/master/assets/no%20space/02_Great_Alexandria.jpg">
 
 # alexandria
 
