@@ -1,4 +1,4 @@
-<img src = "https://github.com/Trinkler/brand/blob/master/assets/alexandria/No%20Space/02_Great_Alexandria.jpg">
+<img src = "https://github.com/Trinkler/brand/blob/master/assets/alexandria/blue/No%20Space/02_Great_Alexandria.jpg">
 
 # alexandria
 
