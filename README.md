@@ -15,6 +15,8 @@ Papers and/or resources that include a token and/or are primarily marketing mate
 
 The initial version of alexandria will focus on the three main parts of a blockchain: `State, Validity and Canonicality`.
 
+An introduction is available at https://hackmd.io/wku4-9c7SXSj36B8TIZptA.
+
 ### Blogs to read
 
 - [Bok Consulting](https://www.bokconsulting.com.au/)
